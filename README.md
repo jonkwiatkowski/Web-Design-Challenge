@@ -7,6 +7,10 @@ My submission for Assignment 11.
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done.
 
+## Website Link
+
+[Weather Analysis Website](https://jonkwiatkowski.github.io/Web-Design-Challenge/)
+
 ## Outline
 
 The website contains the following. 
@@ -33,8 +37,6 @@ The website must consist of seven pages in total, including:
 
   * Uses a Bootstrap grid for the visualizations.
 
-    * The grid must be two visualizations across medium and large screens, and it must be one visualization across on extra-small or small screens.
-
 * A ["Data" page](#data-page) that displays a responsive table containing the data used in the visualizations.
 
   * The table must be a Bootstrap table component. 
@@ -45,6 +47,6 @@ The website must consist of seven pages in total, including:
 ## References
 
 * Assignment 11 Instructions
-* Background image: [Pexels.com - Pixabay]([https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+* Background image: [Pexels.com - Pixabay](https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 * Bootstrap Documentation
 * www.w3schools.com
