@@ -47,3 +47,4 @@ The website must consist of seven pages in total, including:
 * Assignment 11 Instructions
 * Background image: [Pexels.com - Pixabay]([https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 * Bootstrap Documentation
+* www.w3schools.com
