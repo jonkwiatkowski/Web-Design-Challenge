@@ -1,0 +1,121 @@
+body {
+    background-image: url(https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: 200% auto;
+}
+
+.navbar {
+    max-height: 46px;
+  }
+  .navigation .navbar-brand {
+    color:black;
+    margin-left: 0px;
+    padding: inherit;
+    font-weight: bold;
+    background-color:rgba(249, 242, 242, 0);
+    font-family: cochin;
+  }
+  .navbar {
+    background-color: white;
+    font-size: 20px; 
+    font-family: cochin;
+  }
+  .active, .dropdown-menu .dropdown-item:active a:hover {
+    background-color: white;
+  }
+  .dropdown-item {
+    color: black;
+  }
+  .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: lightblue;
+  }
+  
+  .nav-link:hover {
+    background-color:rgb(212, 211, 211);
+   }
+  
+  
+  a {
+    color: white;
+    font-size: 15px;
+  }
+  
+  img{
+    width:100%;
+    height:100%;
+  }
+  .active, .panel:hover {
+    border-color:white;
+    border-style: solid;
+    
+  }
+  .vizualization {
+    width:50%;
+    height:50%;
+  }
+  
+  .title {
+    color: black;
+    font-family: cochin;
+    font-weight: bolder;
+    padding-top: 10px;
+  }
+  
+  p {
+  color: black;
+  font-family: 'segoe ui';
+  font-size: 16px;
+  }
+  
+  .box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px 30px 30px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.796);
+    border-radius: 25px;
+  
+  }
+  
+  .table {
+    font-size: 15px;
+    border-top-color: white;
+  }
+  
+  footer {
+    background-color: white;
+    color:black;
+    min-height: 50px;
+    font-family: Menlo, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px;
+    }
+
+@media(max-width: 992px) {
+    .navbar-expand-lg {
+    background-color: black;
+    }
+    .navbar {
+      max-height: none;
+      padding: inherit;
+    }
+    .navbar div {
+      margin: inherit;
+      background-color: white;
+    }
+    .navbar-brand {
+      padding: 10px;
+    }
+    button{
+      margin-right: 30px;
+    }
+    button:focus {
+      outline: 1px dotted;
+      outline: auto 5px;
+    }
+
+}
