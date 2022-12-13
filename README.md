@@ -6,7 +6,7 @@ Data is more powerful when we share it with others! Let's use what we've learned
 
 ## Website Link
 
-[Weather Analysis Website](https://jonkwiatkowski.github.io/Web-Design-Challenge/)
+[Weather Analysis Website](https://jonkwiatkowski.github.io/Web-Visualization-Dashboard/)
 
 ## Outline
 
