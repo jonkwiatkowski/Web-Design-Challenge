@@ -1,7 +1,4 @@
-# Web-Design-Challenge
-My submission for Assignment 11.
-
-# Unit 11 Homework: Web Visualization Dashboard 
+# Web Visualization Dashboard 
 
 ## Background
 
